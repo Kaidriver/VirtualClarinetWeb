@@ -1,0 +1,22 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Comic Sans MS';
+}
+header {
+  
+  background-color: #F7B733;
+  width: auto;
+  height: 110px;
+  text-align: center;
+  
+}
+h1 {
+  float: left;
+  color: white;
+}
+.container {
+  max-width: 675px;
+	margin: auto;
+}
